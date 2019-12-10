@@ -1,4 +1,4 @@
 const store = {
-    score: 0,
+    counter: 0,
     qtdActiveMemoryCard: 0
 };
